@@ -1,58 +1,81 @@
-# League-of-legends
-Excel And Power BI Project (Fun And learning Project)
+# League of Legends Data Analysis Project
 
+**Excel & Power BI | Fun & Learning Project**
 
-Not only was this project a great way to exercise my skills, but it also provided me with a deeper understanding of the game I used to play.
+---
 
-Here are the steps I followed to complete the project:
+This project combines my passion for data analytics with my interest in League of Legends. It served as a valuable opportunity to sharpen my Excel and Power BI skills while deepening my understanding of the game.
 
-1- I gathered data from an external source in Excel format.
+## Project Overview
 
+The aim was to extract, clean, analyze, and visualize League of Legends data using Microsoft Excel and Power BI, creating an interactive dashboard for deeper insights.
 
-2- Using Microsoft Excel, I cleaned and explored the data to get a better understanding of its structure and contents.
+---
 
-3- I then used the Power Query tool to prepare the data for analysis, including transforming and shaping the data as needed.
+## Project Workflow
 
-4- To enhance the visual appeal of the data, I added relevant images to make it more engaging and easier to understand.
+1. **Data Collection**  
+   - Sourced raw data from external sources in Excel format.
 
-5- Using DAX, I created relevant measures to help analyze and interpret the data effectively.
+2. **Data Exploration & Cleaning**  
+   - Utilized Microsoft Excel to examine, clean, and understand the dataset’s structure and contents.
 
-6- Finally, I developed an interactive BI dashboard/report that provides a comprehensive view of the data and allows users to explore it in a dynamic and user-friendly way.
+3. **Data Preparation**  
+   - Leveraged Power Query to transform and shape the data for analysis.
 
-# Dashboards
+4. **Visual Enhancement**  
+   - Added relevant images to enhance engagement and improve data comprehension.
 
-Overview page
+5. **Data Analysis**  
+   - Built DAX measures within Power BI to facilitate effective data analysis and interpretation.
 
-![Overview Page](https://github.com/MohamedAtef3155/League-of-legends/assets/126327548/1ca7f913-d540-44c9-9261-c38e6fd72c55)
+6. **Dashboard Development**  
+   - Designed and developed an interactive BI dashboard/report, allowing users to explore the data dynamically.
 
+---
 
-Champions
+## Interactive Dashboards
 
-![Champions](https://github.com/MohamedAtef3155/League-of-legends/assets/126327548/09ebf8e1-53f7-45b2-b518-4e7e147a1852)
+Explore the key pages of the Power BI dashboard:
 
+- **Overview**
+  ![Overview Page](https://github.com/MohamedAtef3155/League-of-legends/assets/126327548/1ca7f913-d540-44c9-9261-c38e6fd72c55)
 
-Top Lane
+- **Champions**
+  ![Champions](https://github.com/MohamedAtef3155/League-of-legends/assets/126327548/09ebf8e1-53f7-45b2-b518-4e7e147a1852)
 
-![Top Lane](https://github.com/MohamedAtef3155/League-of-legends/assets/126327548/9a9f04bd-575e-411f-9d5c-9649b32087c5)
+- **Top Lane**
+  ![Top Lane](https://github.com/MohamedAtef3155/League-of-legends/assets/126327548/9a9f04bd-575e-411f-9d5c-9649b32087c5)
 
+- **Jungle (JGL)**
+  ![JGL](https://github.com/MohamedAtef3155/League-of-legends/assets/126327548/3986dcc9-4f5e-43b4-8a02-2b42467ffb0d)
 
-JGL
+- **Mid Lane**
+  ![Mid lane](https://github.com/MohamedAtef3155/League-of-legends/assets/126327548/2702850e-5979-4121-ac16-9c2a5049c887)
 
-![JGL](https://github.com/MohamedAtef3155/League-of-legends/assets/126327548/3986dcc9-4f5e-43b4-8a02-2b42467ffb0d)
+- **Support**
+  ![Support](https://github.com/MohamedAtef3155/League-of-legends/assets/126327548/93d965c2-30e0-494f-aab2-443e79325e08)
 
+- **Bot Lane**
+  ![Bot Lane](https://github.com/MohamedAtef3155/League-of-legends/assets/126327548/e6bbe5bc-53e2-41e4-85b1-6eb06efdf082)
 
-Mid Lane
+---
 
-![Mid lane](https://github.com/MohamedAtef3155/League-of-legends/assets/126327548/2702850e-5979-4121-ac16-9c2a5049c887)
+## Technologies Used
 
+- **Microsoft Excel:** Data cleaning, exploration, and initial preparation.
+- **Power Query:** Data transformation and shaping.
+- **Power BI:** Advanced analytics, DAX measures, and interactive dashboard/report creation.
 
-Support
+---
 
-![Support](https://github.com/MohamedAtef3155/League-of-legends/assets/126327548/93d965c2-30e0-494f-aab2-443e79325e08)
+## Acknowledgements
 
+- Data and images are credited to their respective sources.
+- Special thanks to the League of Legends community for inspiration and feedback.
 
-Bot Lane
+---
 
-![Bot Lane](https://github.com/MohamedAtef3155/League-of-legends/assets/126327548/e6bbe5bc-53e2-41e4-85b1-6eb06efdf082)
+## License
 
-
+This project is for educational and personal portfolio purposes.
